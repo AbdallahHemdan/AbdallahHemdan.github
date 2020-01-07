@@ -2,7 +2,6 @@
   <a href="" rel="noopener">
  <img width=400px  src="https://github.com/AbdallahHemdan/AbdallahHemdan.github.io/blob/master/Screenshots/71915848-4bc78600-3185-11ea-84ee-7561d1e6c44a.png" alt="FirstToSolve logo"></a>
 </p>
-<h3 align="center">Abdallah Hemdan</h3>
 
 <div align="center">
 
