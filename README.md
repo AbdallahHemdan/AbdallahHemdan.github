@@ -14,4 +14,6 @@
 </div>
 
 ---
-## 🥇Abdallah Hemdan my personal website as a way to showcase more about me, education, main projects, skills, volunteering experience and accomplishments..
+## 🥇Abdallah Hemdan 
+
+**_my personal website as a way to showcase more about me, education, main projects, skills, volunteering experience and accomplishments.._**
